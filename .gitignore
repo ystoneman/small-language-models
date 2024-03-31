@@ -1,5 +1,6 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+evaluation_snapshots/
 
 # IPython
 profile_default/
